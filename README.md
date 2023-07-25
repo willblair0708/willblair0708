@@ -2,7 +2,7 @@
   <img src="https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg" width="250" />
 </p>
 
-<h2 align="center">👋🔬 Welcome to the GitHub Profile of Will Blair</h2>
+<h2 align="center">👋🔬 Hi, I'm Will Blair</h2>
 <p align="center">
   <a href="https://willjblair.com"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logoColor=white"/></a>
   <a href="mailto:william.blair0708@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
