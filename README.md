@@ -59,10 +59,6 @@ As the co-founder of Seedling Hydroponics and President of Charm City Science Le
 
 <div align="center">
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willblair0708&show_icons=true&theme=radical)
-
-> Replace 'username' in the above URL with your actual GitHub username.
-
 ⭐️ From [WillBlair](https://github.com/willblair0708)
 
 </div>
