@@ -1,20 +1,18 @@
-<p align="center">
-  <img src="https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg" width="250" />
-</p>
+<div align="center">
+<img src="https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg" width="250" />
 
-<h2 align="center">👋🔬 Welcome to the GitHub Profile of Will Blair</h2>
-<p align="center">
-  <a href="https://willjblair.com"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:william.blair0708@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
+# 👋🔬 Welcome to the GitHub Profile of Will Blair
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logoColor=white)](https://willjblair.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:william.blair0708@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/will-blair/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/will_blair)
 
 ---
 
-<p align="center">
-  <samp>
-    A Senior at Johns Hopkins University from Toronto, Canada, with a passion for <strong>biomedical engineering, thermoelectrics, and drug delivery</strong>. I am dedicated to improving the reach of <strong>science education</strong> in youth.
-  </samp>
-</p>
+"A Senior at Johns Hopkins University from Toronto, Canada, with a passion for **biomedical engineering, thermoelectrics, and drug delivery**. I am dedicated to improving the reach of **science education** in youth."
+
+</div>
 
 ## 🚀 Current Endeavors
 
@@ -30,7 +28,11 @@
 
 > "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
-I'm involved in [ThermoBeat](http://www.thermobeat.com), where we are building thermoelectric generators, boost converters, and AI for the future of medical devices and diagnostics.
+I'm involved in the following startups:
+
+| Name | Description | Role |
+| ---- | ----------- | ---- |
+| [ThermoBeat](http://www.thermobeat.com) | Building thermoelectric generators, boost converters, and AI for the future of medical devices and diagnostics. | Co-Founder, Chief Technology Officer |
 
 ## 🧪 Research
 
@@ -44,8 +46,23 @@ My research primarily involves drug delivery using hydrogels implanted with neur
 
 As the co-founder of Seedling Hydroponics and President of Charm City Science League, I am committed to promoting equal access and opportunity in science for all youth. Learn more about these initiatives [here](http://seedlinghydroponic.com) and [here](http://bit.ly/3InhW4u).
 
+## 💻 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+> Replace the above badges with your actual skills and technologies. You can generate these badges [here](https://shields.io/).
+
 ---
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/willblair0708">WillBlair</a>
-</p>
+<div align="center">
+
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willblair0708&show_icons=true&theme=radical)
+
+> Replace 'username' in the above URL with your actual GitHub username.
+
+⭐️ From [WillBlair](https://github.com/willblair0708)
+
+</div>
