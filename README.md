@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg" width="150">"
+  <img src="https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg" width="300">
   <h2 align="center">👋 Hi there, I'm Will Blair</h2>
   <p align="center">Senior at Johns Hopkins University | Biomedical Engineer | Passionate Educator</p>
 </p>
