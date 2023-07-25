@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-    A Senior at Johns Hopkins University from Toronto, Canada, with a passion for <strong>biomedical engineering, thermoelectrics, and drug delivery</strong>. I am dedicated to improving the reach of <strong>science education</strong> in youth.
+    Cogntive Science graduate of Johns Hopkins University from Toronto, Canada, with a passion for <strong>biomedical engineering, thermoelectrics, and drug delivery</strong>. I am dedicated to improving the reach of <strong>science education</strong> in youth.
   </samp>
 </p>
 
