@@ -53,8 +53,6 @@ As the co-founder of Seedling Hydroponics and President of Charm City Science Le
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-> Replace the above badges with your actual skills and technologies. You can generate these badges [here](https://shields.io/).
-
 ---
 
 <div align="center">
