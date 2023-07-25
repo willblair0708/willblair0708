@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg" width="250" />
 
-# 👋🔬 Welcome to the GitHub Profile of Will Blair
+# 👋🔬 Hi, I'm Will Blair
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logoColor=white)](https://willjblair.com)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:william.blair0708@gmail.com)
