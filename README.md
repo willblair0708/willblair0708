@@ -1,7 +1,5 @@
 # Hi there, I'm Will 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=willjblair&color=blue)
-
 I'm a Senior at Johns Hopkins University from Toronto, Canada. I'm passionate about biomedical engineering, thermoelectrics, drug delivery, and improving the reach of science education in youth.
 
 - 🌐 Check out my portfolio at [willjblair.com](https://willjblair.com)
