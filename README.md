@@ -10,7 +10,7 @@
 
 ---
 
-"A Senior at Johns Hopkins University from Toronto, Canada, with a passion for **biomedical engineering, thermoelectrics, and drug delivery**. I am dedicated to improving the reach of **science education** in youth."
+"Neuroscience graduate of Johns Hopkins University from Toronto, Canada, with a passion for **biomedical engineering, thermoelectrics, and drug delivery**. I am dedicated to improving the reach of **science education** in youth."
 
 </div>
 
