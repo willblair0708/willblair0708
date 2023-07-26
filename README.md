@@ -19,7 +19,7 @@
 > "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world." - Louis Pasteur
 
 - 🔬 Building a stealth startup in **personalized medicine** for neurodegenerative disorders, with backing from JHU, On Deck, and Kleiner Perkins.
-- 💰 Raised $500k+ in non-dilutive funding to develop patent-pending **thermoelectric generators and boost converters**.
+- 💰 Raised $700k+ in non-dilutive funding to develop patent-pending **thermoelectric generators and boost converters**.
 - 🧫 Developing **hydrogels with neural stem cells** for stroke patients, currently in vitro.
 - 🌈 Co-built a handheld **fluorescence imaging device for breast cancer** with 95% accuracy.
 - 📚 Leading programs supporting 500+ students in science Olympiad/food science with 100+ mentors (5,000+ volunteer hours per year).
