@@ -32,7 +32,9 @@ I'm involved in the following startups:
 
 | Name | Description | Role |
 | ---- | ----------- | ---- |
-| [ThermoBeat](http://www.thermobeat.com) | Building thermoelectric generators, boost converters, and AI for the future of medical devices and diagnostics. | Co-Founder, Chief Technology Officer |
+| [Stealth] | Multiomics Platform for Personalized Medicine in Neurodegenerative Disorders | Co-Founder, Chief Executive Officer |
+| [ThermoBeat](http://www.thermobeat.com) | Building thermoelectric generators, boost converters, and AI for the future of medical devices and diagnostics. | Founder, Chief Executive Officer |
+| [Seedling](http://www.seedlinghydroponic.com) | Improving health outcomes through food equity education for Baltimore youth. | Co-Founder, Business Lead |
 
 ## 🧪 Research
 
