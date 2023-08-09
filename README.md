@@ -1,7 +1,5 @@
-
 <div align="center">
-
-![Will Blair](https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg)
+<img src="https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg" width="250" />
 
 ## 👋🔬 Meet Will Blair
 
