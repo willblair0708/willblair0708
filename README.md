@@ -3,10 +3,10 @@
 
 ## 👋🔬 Hi, I'm Will Blair
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-%230077B5?style=for-the-badge)(https://willjblair.com/)]
-[![Email](https://img.shields.io/badge/📧-Email-%23D14836?style=for-the-badge)(mailto:william.blair0708@gmail.com)]
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge)(https://www.linkedin.com/in/willblair1/)]
-[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge)(https://twitter.com/willjblair07)]
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-%230077B5?style=for-the-badge)](https://willjblair.com/)
+[![Email](https://img.shields.io/badge/📧-Email-%23D14836?style=for-the-badge)](mailto:william.blair0708@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/willblair1/)
+[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge)](https://twitter.com/willjblair07)
 
 ---
 
