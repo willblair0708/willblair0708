@@ -30,7 +30,7 @@
 
 | Name | Description | Role |
 | ---- | ----------- | ---- |
-| [Stealth] | Multiomics Platform for Personalized Medicine | CEO |
+| [Biogenesis](https://mybiogenesis.com/) | Rebuilding Clinical Trials Software | COO |
 | [ThermoBeat](http://www.thermobeat.com) | Thermoelectric generators & AI for medical devices. | CEO |
 | [Seedling](http://www.seedlinghydroponic.com) | Health outcomes & food equity education for Baltimore youth. | Business Lead |
 
