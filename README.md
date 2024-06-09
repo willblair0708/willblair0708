@@ -18,8 +18,7 @@
 
 > "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world." - Louis Pasteur
 
-- 🔬 Building a stealth startup in **personalized medicine** for neurodegenerative disorders.
-- 💰 Raised $700k+ for patent-pending **thermoelectric generators and boost converters**.
+- 🔬 Developed **thermoelectric generators and boost converters**.
 - 🧫 **Hydrogels with neural stem cells** in development for stroke patients.
 - 🌈 Handheld **fluorescence imaging device for breast cancer** with 95% accuracy.
 - 📚 Leading programs for 500+ students in science Olympiad/food science.
