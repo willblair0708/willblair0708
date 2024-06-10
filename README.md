@@ -29,9 +29,10 @@
 
 | Name | Description | Role |
 | ---- | ----------- | ---- |
-| [Biogenesis](https://mybiogenesis.com/) | Rebuilding Clinical Trials Software | COO |
-| [ThermoBeat](http://www.thermobeat.com) | Thermoelectric generators & AI for medical devices. | CEO |
-| [Seedling](http://www.seedlinghydroponic.com) | Health outcomes & food equity education for Baltimore youth. | Business Lead |
+| [Biogenesis](https://mybiogenesis.com/) | Rebuilding Clinical Trials Software | Co-Founder, COO |
+| [ThermoBeat](http://www.thermobeat.com) | Thermoelectric generators & AI for medical devices. | Founder, CEO |
+| [Seedling](http://www.seedlinghydroponic.com) | Health outcomes & food equity education for Baltimore youth. | Co-Founder, Business Lead |
+| [Charm City Science League](https://jhu.campusgroups.com/ccsl/home/) | Democratized science olympiad education for all | President |
 
 ## 🧪 Research
 
