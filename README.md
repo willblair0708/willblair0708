@@ -1,52 +1,56 @@
 <div align="center">
 <img src="https://github.com/willblair0708/willblair0708/blob/main/profile/profile.jpg" width="250" />
 
-## 👋🔬 Hi, I'm Will Blair
+## Hi, I'm Will Blair
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-%230077B5?style=for-the-badge)](https://willjblair.com/)
-[![Email](https://img.shields.io/badge/📧-Email-%23D14836?style=for-the-badge)](mailto:william.blair0708@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/willblair1/)
-[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge)](https://twitter.com/willjblair07)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge)](https://willjblair.com/)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge)](mailto:william.blair0708@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/willblair1/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge)](https://twitter.com/willjblair07)
 
 ---
 
-🎓 **Neuroscience graduate** of Johns Hopkins University from Toronto, Canada. Passionate about **biomedical engineering, thermoelectrics, and multiomics**. Dedicated to improving the reach of **science education** in youth.
+🎓 Cognitive Science (Honors) graduate from Johns Hopkins University with a minor in Entrepreneurship. Passionate about neuroscience, biomedical engineering, and multiomics. Dedicated to advancing biotech innovation and ensuring equal opportunity in STEM education.
 
 </div>
 
-## 🚀 Current Endeavors
+## Current Endeavors
 
 > "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world." - Louis Pasteur
 
-- 🔬 Developed **thermoelectric generators and boost converters**.
-- 🧫 **Hydrogels with neural stem cells** in development for stroke patients.
-- 🌈 Handheld **fluorescence imaging device for breast cancer** with 95% accuracy.
-- 📚 Leading programs for 500+ students in science Olympiad/food science.
+- Developing thermoelectric generators and boost converters for medical devices.
+- Creating hydrogel therapies with neural stem cells for stroke patients.
+- Innovating a handheld fluorescence imaging device for breast cancer detection.
+- Leading programs for 500+ students in Science Olympiad and food science education.
 
-## 💼 Startups
+## Startups
 
 > "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
 | Name | Description | Role |
 | ---- | ----------- | ---- |
-| [Biogenesis](https://mybiogenesis.com/) | Rebuilding Clinical Trials Software | Co-Founder, COO |
+| [Biogenesis](https://mybiogenesis.com/) | Rebuilding clinical trials software for efficiency. | Co-Founder, COO |
 | [ThermoBeat](http://www.thermobeat.com) | Thermoelectric generators & AI for medical devices. | Founder, CEO |
-| [Seedling](http://www.seedlinghydroponic.com) | Health outcomes & food equity education for Baltimore youth. | Co-Founder, Business Lead |
-| [Charm City Science League](https://jhu.campusgroups.com/ccsl/home/) | Democratized science olympiad education for all | President |
+| [Seedling Hydroponics](http://www.seedlinghydroponic.com) | Health outcomes & food equity education for Baltimore youth. | Co-Founder, Business Lead |
+| [Charm City Science League](https://jhu.campusgroups.com/ccsl/home/) | Democratizing Science Olympiad education for all. | President |
 
-## 🧪 Research
+## Research
 
 > "Research is to see what everybody else has seen, and to think what nobody else has thought." - Albert Szent-Gyorgyi
 
-Primary research on drug delivery using **hydrogels** and **LAG3 characterization for Parkinson’s**. Also experienced in research spanning epilepsy, muscular dystrophy, breast cancer, and infectious diseases. [Find out more](https://willjblair.com/portfolio).
+- Primary research on drug delivery using hydrogels and LAG3 characterization for Parkinson’s disease.
+- Additional research in epilepsy, muscular dystrophy, breast cancer, and infectious diseases.
 
-## 📚 Education & Initiatives
+[Find out more about my research](https://willjblair.com/portfolio).
+
+## Education & Initiatives
 
 > "Education is the weapon which you can use to change the world." - Nelson Mandela
 
-Promoting **equal access** and opportunity in science for all youth. Leading initiatives at [Seedling Hydroponics](http://seedlinghydroponic.com) and Charm City Science League.
+- Promoting equal access and opportunity in science for all youth.
+- Leading initiatives at [Seedling Hydroponics](http://www.seedlinghydroponic.com) and [Charm City Science League](https://jhu.campusgroups.com/ccsl/home/).
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Linux](https://img.shields.io/badge/OS-Linux-green?style=flat-square&logo=linux)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code)
