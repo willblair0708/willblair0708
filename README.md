@@ -29,6 +29,7 @@
 
 | Name | Description | Role |
 | ---- | ----------- | ---- |
+| [Stealth] | Co-Founder, CEO |
 | [Biogenesis](https://mybiogenesis.com/) | Rebuilding clinical trials software for efficiency. | Co-Founder, COO |
 | [ThermoBeat](http://www.thermobeat.com) | Thermoelectric generators & AI for medical devices. | Founder, CEO |
 | [Seedling Hydroponics](http://www.seedlinghydroponic.com) | Health outcomes & food equity education for Baltimore youth. | Co-Founder, Business Lead |
