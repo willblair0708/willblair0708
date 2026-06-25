@@ -4,6 +4,11 @@ I build [Vela](https://github.com/constellate-science/vela), version control for
 
 Vela turns a scientific result into content-addressed, verifier-gated state that anyone can reproduce and build on.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="vela-dark.svg">
+  <img alt="What Vela does: a scientific result becomes verified, content-addressed state, then a fixed point of light others build on." src="vela-light.svg" width="100%">
+</picture>
+
 By day I build researcher-intelligence tooling at an R&D lab in San Francisco.
 
 **Open**
